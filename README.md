@@ -56,7 +56,8 @@ bash
 ``
 flutter run
 ``
-The app should start on the Android device/emulator or on the iOS simulator, displaying the current weather and hourly forecast. 
+
+The app should start on the Android emulator or the iOS simulator, displaying the current weather and hourly forecast. 
 
 # Usage
 Enter Location - Enter the name of a city to get weather information and hourly forecast.
