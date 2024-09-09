@@ -61,6 +61,7 @@ The app should start on the Android emulator or the iOS simulator, displaying th
 
 # Usage
 Enter Location - Enter the name of a city to get weather information and hourly forecast.
+
 View Weather Data - See the current temperature, weather description, and hourly forecasts.
 
 
