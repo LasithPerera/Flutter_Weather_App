@@ -12,7 +12,7 @@ Location Search - Allows users to search for weather details by entering a city 
 Responsive UI - Designed to work seamlessly on both Android and iOS devices.
 
 # Installation
-Follow these steps to Install and Run the app
+Follow these steps to Install and Run the app:
 
 Clone the Repository
 
@@ -23,7 +23,7 @@ git clone ``https://github.com/LasithPerera/Flutter_Weather_App.git``
 cd Flutter_Weather_App
 
 # Install dependencies 
-Navigate to the project directory and install the required Flutter packages
+Navigate to the project directory and install the required Flutter packages:
 
 bash
 
@@ -32,7 +32,7 @@ flutter pub get
 ``
 
 # Run the App
-For Android
+For Android:
 
 Ensure you have an Android emulator set up in Android Studio or connect a physical device.
 
@@ -45,7 +45,7 @@ flutter run
 ``
 
 
-For iOS
+For iOS:
 
 Set up an iOS simulator in Xcode or connect an iOS device.
 
